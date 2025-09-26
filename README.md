@@ -1,8 +1,8 @@
 # EX NO: Cloud-account-set-up-and-services
 ~~~
-Name : ABILASH A
+Name : Alan Rohith B
 
-Reg no: 212224220004
+Reg no: 212223020001
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
